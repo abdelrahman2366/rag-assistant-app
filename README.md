@@ -257,7 +257,7 @@ curl -X POST http://localhost:8000/query \
 From the notebook's Phase 2.6 evaluation, run against 10 test questions
 (full table in `data/evaluation_results.csv`):
 
-| # | Question | Retrieved Source | Correct? |
+| # | Question | Retrieved Source | Correct Answer? |
 |---|---|---|---|
 | 1 | What is linear regression used for? | Lecture-2--Linear-Regression-.pdf (p.3) | ✅ |
 | 2 | What is the difference between supervised and unsupervised learning? | Lecture-1-Introduction-to-ML.pdf (p.30) | ✅ |
