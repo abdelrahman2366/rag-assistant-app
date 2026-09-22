@@ -280,10 +280,6 @@ topic not present in the 4 lecture PDFs, instead of the assistant answering
 from the LLM's own general knowledge (the "Common Mistake" the project
 guideline specifically warns against).
 
-## Screenshots
-
-*To be added after the frontend is built and a full end-to-end demo
-(question → API → retrieval → LLM → grounded answer on screen) is run.*
 
 ## Project Status
 
