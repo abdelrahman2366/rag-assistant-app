@@ -293,5 +293,5 @@ guideline specifically warns against).
 | Phase 1 — Domain & data collection | ✅ Done |
 | Phase 2 — Notebook: build & evaluate RAG pipeline | ✅ Done |
 | Phase 3 — Backend (FastAPI) | ✅ Done |
-| Phase 4 — Frontend (Streamlit/Gradio) | ⬜ Not started |
+| Phase 4 — Frontend (Streamlit/Gradio) | ✅ Done |
 | Phase 5 — Publish on GitHub | ✅ This repository |
