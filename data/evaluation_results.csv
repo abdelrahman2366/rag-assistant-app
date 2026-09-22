@@ -1,0 +1,51 @@
+question,retrieved_source,answer,correct
+What is linear regression used for?,Lecture-2--Linear-Regression-.pdf (page 3),"Linear regression is used to predict outcomes by fitting a straight line to observed data points, making it easy to interpret and apply. It is also used to model the relationship between a dependent variable and an independent variable, and to predict the outcome of future events.
+
+Sources: Lecture-2--Linear-Regression-.pdf, page 3; Lecture-2--Linear-Regression-.pdf, page 4; Lecture-2--Linear-Regression-.pdf, page 5",True
+What is the difference between supervised and unsupervised learning?,Lecture-1-Introduction-to-ML.pdf (page 30),"Supervised learning is a type of machine learning where an algorithm learns to map input data (X) to known output labels (y). It's called ""supervised"" because the process of an algorithm learning from a labeled dataset is analogous to a teacher supervising a student. In contrast, unsupervised learning is the key idea of finding hidden patterns in unlabeled data. The algorithm is given data without any predefined labels and must find structure on its own.
+
+Analogy: Think of supervised learning like a teacher supervising a student who gets examples with the right answers, learns from them, and then tries to answer new questions. In unsupervised learning, it's like giving a student a set of different objects (e.g., fruits, vegetables, books) without any labels and asking them to sort them into groups based on their similarities.
+
+Sources: Lecture-1-Introduction-to-ML.pdf (page 20, 30, 38)",True
+How does logistic regression differ from linear regression?,Lecture-4---LOGISTIC-REGREssion.pdf (page 32),"Logistic regression differs from linear regression in that it is used for binary classification problems, whereas linear regression is used for regression tasks. Additionally, logistic regression uses the sigmoid function to produce a probability value between 0 and 1, whereas linear regression does not.
+
+Sources: 
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 32)
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 31)
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 16)",True
+What is overfitting and how can it be avoided?,Lecture-1-Introduction-to-ML.pdf (page 29),"Overfitting is when a model learns the training data too well, including its noise and random variation, and as a result, it performs poorly on new, unseen data. This is like a student who memorizes the textbook answers but fails the exam because the questions are phrased differently. To avoid overfitting, one can use techniques such as regularization, ensemble methods, or increasing the size of the training dataset.
+
+Sources:
+Lecture-1-Introduction-to-ML.pdf (page 29)",True
+What is a decision tree?,Lecture-1-Introduction-to-ML.pdf (page 23),"A decision tree is a type of model used for complex problems, as mentioned in rule [1] (source: Lecture-1-Introduction-to-ML.pdf, page 25).
+
+Sources: Lecture-1-Introduction-to-ML.pdf (page 25), Lecture-4---LOGISTIC-REGREssion.pdf (page 16)",True
+What is the purpose of a loss function / cost function?,Lecture-2--Linear-Regression-.pdf (page 41),"The purpose of a loss function / cost function is to measure the difference between the predicted value and the true value, in order to minimize the value of the loss function and find the optimal values of the weights/parameters.
+
+Sources:
+Lecture-2--Linear-Regression-.pdf, page 41",True
+What is gradient descent?,Lecture-2--Linear-Regression-.pdf (page 46),"Gradient Descent is a first-order iterative optimization algorithm for finding a local min of a differentiable function. It is used in machine learning (ANNs, LR, SVM, ..) to find the best values of a function's parameters that minimize a cost function as far as possible. To find a local minimum of a function using gradient descent, we take steps proportional to the negative of the gradient of the function at the current point.
+
+Sources:
+- Lecture-2--Linear-Regression-.pdf, page 46
+- Lecture-3---Optimization-Algorithms.pdf, page 7
+- Lecture-3---Optimization-Algorithms.pdf, page 10",True
+What is the difference between classification and regression?,Lecture-4---LOGISTIC-REGREssion.pdf (page 4),"The difference between classification and regression lies in the type of output data and the approach used to solve the problem.
+
+Classification is used when the output data is discrete in nature, and it involves assigning a categorical label or class to each input. Logistic regression is a type of classification algorithm that uses a sigmoid function to produce a probability value between 0 and 1, which is then compared to a threshold value to determine the class.
+
+Regression, on the other hand, is used when the output data is continuous in nature, and it involves predicting a continuous value based on one or more independent variables. Linear regression is a type of regression algorithm that finds the best fit straight line relationship between the dependent variable and the independent variable.
+
+Sources: 
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 4)
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 31)
+- Lecture-2--Linear-Regression-.pdf (page 4)",True
+What is cross-validation used for?,Lecture-1-Introduction-to-ML.pdf (page 16),"Cross-validation is used to determine the efficiency of the model.
+
+Sources: Lecture-1-Introduction-to-ML.pdf (page 18)",True
+What is a confusion matrix?,Lecture-1-Introduction-to-ML.pdf (page 20),"Unfortunately, the provided context does not define what a confusion matrix is.
+
+Sources: 
+- Lecture-1-Introduction-to-ML.pdf (page 20, 21)
+- Lecture-4---LOGISTIC-REGREssion.pdf (page 36)
+- ahmed.hisham@fci.helwan.edu.eg",False
