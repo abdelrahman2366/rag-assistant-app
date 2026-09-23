@@ -1,5 +1,6 @@
 # RAG-Powered Document Assistant — ML Lecture Notes
-Project made by: Abdelrahman Khaled Abdelhamid and Omar Saad Abdelhakam
+#Project made by: Abdelrahman Khaled Abdelhamid and Omar Saad Abdelhakam
+
 A Retrieval-Augmented Generation (RAG) assistant that answers questions about a
 set of Machine Learning lecture PDFs, with grounded, cited answers. Built as
 the graduation project for the Level 2 Summer Training program — **Core
